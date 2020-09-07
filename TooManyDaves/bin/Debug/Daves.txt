@@ -1,0 +1,29 @@
+Prance Van Der Caltrop McGee,12/04/1992 00:00:00,likes dancing
+Dopey Van Der Frumpy Head,12/04/1996 00:00:00,likes fishing
+Zanzibar Buck Buck McFate,23/03/1998 00:00:00,likes dogs
+Oliver Boliver Butt,03/03/1999 00:00:00,likes lego
+Sir Michael Carmichael Zutt,19/05/2000 00:00:00,likes football
+Harris Tweed,18/04/2001 00:00:00,milk and peanut allergy
+Weepy Weed,17/03/2002 00:00:00,peanut allergy
+Paris Garters,17/03/2002 00:00:00,peanut allergy
+Sneepy,16/02/2003 00:00:00,likes reading
+Biffalo-Buff,12/01/2004 00:00:00,scared of small spaces
+Buffalo-Bill,12/11/2005 00:00:00,does not like school
+Soggy Muff,01/12/2006 00:00:00,wants to be a dr
+Ziggy,11/12/2006 00:00:00,wants to be a teacher
+Marvin O'Gravel Balloon Face,10/11/2007 00:00:00,dislikes animals
+Moon Face,09/10/2008 00:00:00,likes lego
+Putt Putt,09/10/2008 00:00:00,needs help with reading
+Stinkey,08/09/2009 00:00:00,need help with maths
+Stuffy,07/08/2010 00:00:00,likes maths and football
+Blinkey,06/07/2011 00:00:00,milk allergy
+Hot Shot,05/06/2012 00:00:00,scared of dogs
+Shadrack,05/06/2012 00:00:00,peanut allergy
+Sunny Jim,05/06/2012 00:00:00,good at singing
+Snimm,04/05/2013 00:00:00,scared of the dark
+Hoos Foos,03/04/2014 00:00:00,likes kittens
+Bodkin Van Horn,02/03/2015 00:00:00,likes arts and crafts 
+Claudia Butterfingers,05/04/2018 00:00:00,likes fishing
+Snoggy Mc Park,05/04/2018 00:00:00,likes firetrucks
+Bucks Big Nose,09/08/2008 00:00:00,likes hiking
+McMullin Muc Muc Mc Choi,11/04/2017 00:00:00,likes reading
